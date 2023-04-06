@@ -1,5 +1,5 @@
 # ICP-9
-
+Recording link: https://drive.google.com/file/d/1v2v9qoHgDZGJKCrF3Vjk-S9li2d78mCd/view?usp=share_link
 
 ** Added one more hidden layer to autoencoder
 ** Did the prediction on the test data and then visualized one of the reconstructed version of that test data. Also, visualized the same test data before reconstruction using Matplotlib.
